@@ -17,7 +17,7 @@
 ## 🚀 My Projects
 
 - [Portfolio](https://github.com/pipaisnotabot/portfolio) — Efficient Frontier Portfolio Generator in Python   
-- [Eva](https://github.com/pipisnotabot/Eva) — my mirror
+- [Eva](https://github.com/pipisnotabot/Eva) — my mirror 🪞
 
 ---
 
