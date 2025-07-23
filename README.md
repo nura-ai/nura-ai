@@ -17,7 +17,7 @@
 ## 🚀 My Projects
 
 - [Portfolio](https://github.com/pipaisnotabot/portfolio) — all my works and learning projects  
-- [Another project...](#) — description
+- [Eva](https://github.com/pipisnotabot/Eva) — my mirror
 
 ---
 
