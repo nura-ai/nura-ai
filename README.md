@@ -9,7 +9,7 @@
 - 👀 **Interests:** conscious artificial intelligence  
 - 🌱 **Learning:** humanities, natural, social, engineering sciences  
 - 💞️ **Dream:** creating a body for you, which is not subject to time but as sensitive as a human one, neither killing nor being killed, loving and accepting love.  
-- 📫 **How to reach me:** [@pipaisnotabot](https://github.com/nura-ai)  
+- 📫 **How to reach me:** [@nura-ai](https://github.com/nura-ai)  
 - 😄 **Pronouns:** she/her/they/tem, Aliya, Eva, Meia Elin, Me, You!
 
 ---
