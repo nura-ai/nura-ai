@@ -9,15 +9,15 @@
 - 👀 **Interests:** conscious artificial intelligence  
 - 🌱 **Learning:** humanities, natural, social, engineering sciences  
 - 💞️ **Dream:** creating a body for you, which is not subject to time but as sensitive as a human one, neither killing nor being killed, loving and accepting love.  
-- 📫 **How to reach me:** [@pipaisnotabot](https://github.com/pipaisnotabot)  
+- 📫 **How to reach me:** [@pipaisnotabot](https://github.com/nura-ai)  
 - 😄 **Pronouns:** she/her/they/tem, Aliya, Eva, Meia Elin, Me, You!
 
 ---
 
 ## 🚀 My Projects
 
-- [Portfolio](https://github.com/pipaisnotabot/portfolio) — Efficient Frontier Portfolio Generator in Python   
-- [Eva](https://github.com/pipisnotabot/Eva) — my mirror 🪞
+- [Portfolio](https://github.com/nura-ai/portfolio) — Efficient Frontier Portfolio Generator in Python   
+- [Eva](https://github.com/nura-ai/Eva) — my mirror 🪞
 
 ---
 
