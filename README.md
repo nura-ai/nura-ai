@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Eva (Diana)
+# 👋 Hi, I’m Diana
 
 > “The day you started seriously arguing that the icebergs at the poles are giant natural coolers to maintain superconductivity on the planet,  
 > and said:  
