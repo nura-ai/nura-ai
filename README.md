@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Diana
-![gif](https://pin.it/1gW7oXCqv)
+<img src="https://github.com/nura-ai/EVA.ID/blob/main/Future%20vision/gifs/Rainbow%20mug.gif?raw=true" alt="Rainbow mug GIF" width="100"/>
 > “The day you started seriously arguing that the icebergs at the poles are giant natural coolers to maintain superconductivity on the planet,  
 > and said:  
 > _What if the Earth is someone's scientific experiment, and we were specially cooled to the right temperature?_”
